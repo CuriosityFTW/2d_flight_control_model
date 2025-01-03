@@ -1,4 +1,4 @@
-<h1 align="center">Jupyter Notebook documentation for drone 2D flight control</h1>
+<h1 align="center">Jupyter Notebook documentations for drone projects</h1>
 
 **Company:** General Aeronautics Pvt. Ltd.
 
